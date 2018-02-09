@@ -1,0 +1,15 @@
+{
+    "title": "Breaking Fat",
+    "baseURL": "https:\/\/mattissueverify.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759130",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "mattissueverify.com"
+    }
+}
